@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Clear Cart**
 
-- 🌱 I’m currently learning **Kotlin**
-
 - 📫 How to reach me **tolgaduy@outlook.com**
 
 
