@@ -37,6 +37,6 @@ I'm **Tolga**, a Computer Engineering student driven by a continuous motivation 
 
 ## 📫 Reach me
 
-[![Email](https://img.shields.io/badge/Email-tolgaduy%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:tolgaduy@outlook.com)
+![Email](https://img.shields.io/badge/Email-tolgaduy%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-@tolgadydev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tolgadydev)
 
