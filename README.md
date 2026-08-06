@@ -24,38 +24,26 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/tolgadydev/YZTA-Bootcamp">
-        <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=YZTA-Bootcamp&theme=tokyonight" alt="YZTA-Bootcamp" />
-      </a>
+      <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=YZTA-Bootcamp&theme=tokyonight" alt="YZTA-Bootcamp" />
     </td>
     <td>
-      <a href="https://github.com/tolgadydev/BookTracker-FastAPI-Project">
-        <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=BookTracker-FastAPI-Project&theme=tokyonight" alt="BookTracker-FastAPI-Project" />
-      </a>
+      <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=BookTracker-FastAPI-Project&theme=tokyonight" alt="BookTracker-FastAPI-Project" />
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/tolgadydev/WDI-Education-Development">
-        <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=WDI-Education-Development&theme=tokyonight" alt="WDI-Education-Development" />
-      </a>
+      <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=WDI-Education-Development&theme=tokyonight" alt="WDI-Education-Development" />
     </td>
     <td>
-      <a href="https://github.com/tolgadydev/Metro-Simulation">
-        <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=Metro-Simulation&theme=tokyonight" alt="Metro-Simulation" />
-      </a>
+      <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=Metro-Simulation&theme=tokyonight" alt="Metro-Simulation" />
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/tolgadydev/Basic-GUI-Project">
-        <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=Basic-GUI-Project&theme=tokyonight" alt="Basic-GUI-Project" />
-      </a>
+      <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=Basic-GUI-Project&theme=tokyonight" alt="Basic-GUI-Project" />
     </td>
     <td>
-      <a href="https://github.com/tolgadydev/Veri-Analizi-Projesi">
-        <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=Veri-Analizi-Projesi&theme=tokyonight" alt="Veri-Analizi-Projesi" />
-      </a>
+      <img src="https://github-readme-stats-jet-tau-86.vercel.app/api/pin?username=tolgadydev&repo=Veri-Analizi-Projesi&theme=tokyonight" alt="Veri-Analizi-Projesi" />
     </td>
   </tr>
 </table>
