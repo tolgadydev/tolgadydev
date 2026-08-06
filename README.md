@@ -1,5 +1,7 @@
 ## 📊 GitHub İstatistikleri
 
+<img src="https://streak-stats.demolab.com?user=tolgadydev&theme=tokyonight&hide_border=true&card_width=800&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak" />
+
 <table>
   <tr>
     <td valign="top">
