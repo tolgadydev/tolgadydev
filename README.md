@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## 📌 Featured projects
+## 📌 Featured Projects
 
 <table>
   <tr>
