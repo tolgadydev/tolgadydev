@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-## 🐍 Katkı Grafiği
+## 🐍 Contribution Chart
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tolgadydev/tolgadydev/output/github-snake-dark.svg" />
