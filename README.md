@@ -61,3 +61,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tolgadydev/tolgadydev/output/github-snake.svg" />
   <img alt="Katkı grafiği" src="https://raw.githubusercontent.com/tolgadydev/tolgadydev/output/github-snake.svg" />
 </picture>
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tolga-duy/">
+    <img src="https://img.shields.io/badge/LinkedIn-70A5FD?style=for-the-badge&logo=linkedin&logoColor=1A1B27" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/tolgadydev">
+    <img src="https://img.shields.io/badge/GitHub-BF91F3?style=for-the-badge&logo=github&logoColor=1A1B27" alt="GitHub" />
+  </a>
+</p>
+
+
